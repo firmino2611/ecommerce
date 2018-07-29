@@ -1,4 +1,5 @@
 ## Ecommerce com Laravel
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 Desenvolvimento de uma loja virtual com Laravel.
 
